@@ -1,0 +1,20 @@
+{
+  "version": "0.1.0",
+  "name": "Sheffield.js",
+  "description": "A demo application",
+  "main": "index.html",
+  "single-instance": true,
+  "user-agent": "%name %ver",
+  "window": {
+    "title": "Sheffield.js",
+    "toolbar": false,
+    "width": 480,
+    "height": 360,
+    "resizable": true,
+    "frame": true,
+    "show": true
+  },
+  "dependencies": {
+    "async": "*"
+  }
+}
